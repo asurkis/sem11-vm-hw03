@@ -1,6 +1,7 @@
 # BasedOnStyle: Microsoft
 # AttributeMacros: []
 # AlignArrayOfStructures: Left
+ColumnLimit: 120
 
 AlignConsecutiveAssignments: true
 AlignConsecutiveBitFields: true
